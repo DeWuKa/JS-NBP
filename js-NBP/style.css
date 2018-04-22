@@ -1,0 +1,20 @@
+#kurs{
+    margin: 5px 40%;
+    text-align: center;
+    border: solid 1px #000;
+    max-width: 1140px;
+    min-height: 20px; 
+}
+
+h1{
+    margin: 5px 40%;
+    text-align: center;
+    border: solid 1px #000;
+    max-width: 1140px;    
+}
+
+input
+{
+    margin: 5px 40%;  
+    padding: 5px auto;  
+}
